@@ -1,0 +1,14 @@
+body{
+    background: gainsboro;
+}
+.insertext{
+    padding-top: 60px;
+   text-align: center;
+}
+textarea {
+    overflow: hidden;
+    height: auto;
+    resize: none;
+    width:30%;
+     }
+  
